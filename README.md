@@ -188,7 +188,7 @@ Es posible ejecutar la automatización en cualquier navegador, incluso si se req
 
 Para ello, en el **runner** debe agregar la siguiente línea de código y modificar según lo requerido:  
 ```sh
-:test --tests "com.parabank.runners.nuevacuenta.NuevaCuentaAhorrosRunner"
+:test --tests "co.com.saucedemo.runners.nuevacuenta.NuevaCuentaAhorrosRunner"
 ```
 
 ---
